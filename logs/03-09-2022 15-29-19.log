@@ -1,0 +1,19 @@
+03-09-22  15:29:19 - WARNING - Innit function is starting in file Z:\GitHub\Repos\Better-os\Better-OS\main.py
+03-09-22  15:29:19 - INFO - create_zip_backup function is starting in file Z:\GitHub\Repos\Better-os\Better-OS\backend\core\basic_handler.py
+03-09-22  15:29:19 - INFO - Folder time set to 03-09-2022 15-29-19
+03-09-22  15:29:19 - INFO - Creating backup of Better-OS in C:\Temp\Better-OS
+03-09-22  15:29:19 - INFO - Backup of Better-OS created in C:\Temp\Better-OS
+03-09-22  15:29:19 - INFO - Zip file of Better-OS created in Z:\GitHub\Repos\Better-os\Better-OS\backups\
+03-09-22  15:29:20 - INFO - Temp directory C:\Temp\Better-OS03-09-2022 15-29-19 deleted
+03-09-22  15:29:20 - INFO - Temp directory C:\Temp\Better-OS deleted
+03-09-22  15:29:20 - INFO - count_backup_files function is starting in file Z:\GitHub\Repos\Better-os\Better-OS\backend\core\basic_handler.py
+03-09-22  15:29:20 - INFO - Removed backup file backups/03-09-2022 15-29-19.zip in ./backups
+03-09-22  15:29:20 - INFO - create_zip_backup function is finsihed in file Z:\GitHub\Repos\Better-os\Better-OS\backend\core\basic_handler.py
+03-09-22  15:29:20 - INFO - count_log_files function is starting in file Z:\GitHub\Repos\Better-os\Better-OS\backend\core\basic_handler.py
+03-09-22  15:29:20 - INFO - count_log_files function is finsihed in file Z:\GitHub\Repos\Better-os\Better-OS\backend\core\basic_handler.py
+03-09-22  15:29:20 - INFO - Number of log files in ./logs is 6 before deletion
+03-09-22  15:29:20 - INFO - Removed log file logs/03-09-2022 15-01-27.log in ./logs
+03-09-22  15:29:20 - INFO - Number of log files in ./logs is 5 after deletion
+03-09-22  15:29:20 - WARNING - Innit function is done in file Z:\GitHub\Repos\Better-os\Better-OS\main.py
+03-09-22  15:29:20 - WARNING - Main function is starting in file Z:\GitHub\Repos\Better-os\Better-OS\main.py
+03-09-22  15:29:20 - WARNING - Main function is done in file Z:\GitHub\Repos\Better-os\Better-OS\main.py
